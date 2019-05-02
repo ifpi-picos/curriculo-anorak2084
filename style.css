@@ -1,0 +1,9 @@
+.nome, .foto{
+    padding:50px;
+    display:inline-block;
+    vertical-align: middle;
+}
+.marcos{
+    width: 130px;
+    height: 200px;
+}
